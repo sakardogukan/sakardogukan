@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Doğukan</h1>
-<h3 align="center">A passionate backend developer</h3>
+<h3 align="center">A passionate backend developer. I'm also working on becoming a Full-Stack Developer."</h3>
 
 <h3 align="left"><u>Connect with me:</u></h3>
 <h4 align="left">LinkedIn: www.linkedin.com/in/dogukansakar</h4>
