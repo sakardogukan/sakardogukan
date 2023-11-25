@@ -2,7 +2,7 @@
 <h3 align="center">A passionate backend developer. I'm also working on becoming a Full-Stack Developer."</h3>
 
 <h3 align="center"><u>Connect with me:</u></h3>
-<h3 align="center"><a href="https://linkedin.com/in/https://www.linkedin.com/in/dogukansakar/#:~:text=www.linkedin.com/in/dogukansakar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dogukansakar/#:~:text=www.linkedin.com/in/dogukansakar" height="30" width="70" /></a> </h3>
+<h3 align="center"><a href="https://www.linkedin.com/in/dogukansakar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dogukan" height="30" width="70" /></a> </h3>
 <br>
 <p align="center">
 </p>
