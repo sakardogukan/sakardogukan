@@ -3,7 +3,7 @@
 
 <h3 align="left"><u>Connect with me:</u></h3>
 <h4 align="left">LinkedIn: www.linkedin.com/in/dogukansakar</h4>
-<h4 align="left">E-mail: sakardogukan@gmail.com</h4>
+<h4 align="left">E-mail: sakardogukan@gmail.com </h4>
 
 <p align="left">
 </p>
