@@ -2,10 +2,8 @@
 <h3 align="center">A passionate backend developer. I'm also working on becoming a Full-Stack Developer."</h3>
 
 <h3 align="left"><u>Connect with me:</u></h3>
-<h4 align="left">LinkedIn: www.linkedin.com/in/dogukansakar</h4>
-<h4>E-mail:<a href="mailto:sakardogukan@gmail.com"> sakardogukan@gmail.com</a></h4>
-
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/dogukansakar/#:~:text=www.linkedin.com/in/dogukansakar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dogukansakar/#:~:text=www.linkedin.com/in/dogukansakar" height="30" width="40" /></a>
+<h4>E-mail:<a href="mailto:sakardogukan@gmail.com"> sakardogukan@gmail.com</a></h4>
 
 <p align="left">
 </p>
