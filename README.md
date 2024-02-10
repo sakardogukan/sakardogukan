@@ -29,8 +29,8 @@ A passionate backend developer. I am also working towards becoming a Full Stack 
 <a style="margin-right:60px" href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="70" height="70"/> </a>
 
 ### Other Tools:
-<a style="margin-right:35px" href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="70" height="70"/> </a>
-<a style="margin-right:35px" href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="70" height="70"/> </a>
+<a style="margin-left:35px" href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="70" height="70"/> </a>
+<a style="margin-left:35px" href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="70" height="70"/> </a>
 
 ## 📊 GitHub Statistics
 ![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=sakardogukan&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true)
