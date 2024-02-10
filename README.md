@@ -1,7 +1,7 @@
 # Hello 👋, I'm Doğukan
 ## 🚀 About Me
 
-A passionate backend developer. I am also working towards becoming a Full Stack Developer and a Full Stack QA Tester.
+A passionate backend developer. He's also working towards becoming a Full Stack Developer and a Full Stack QA Tester.
 
 📫 To contact me: sakardogukan@gmail.com
 
