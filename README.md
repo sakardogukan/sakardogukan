@@ -12,7 +12,7 @@ A passionate backend developer. He's also working towards becoming a Full Stack 
 ## 💻 Technologies I use
 
 ### Front-End Languages and Tools:
-<div style="margin-right:20px">
+<div style="margin-left:20px">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="70" height="70"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="70" height="70"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="70" height="70"/>
