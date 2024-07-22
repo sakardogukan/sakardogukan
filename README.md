@@ -31,9 +31,9 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,bootstrap,tailwind,sass,styledcomponents,nodejs,mongodb,sqlite,mysql&perline=15" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,bootstrap,tailwind,sass,nodejs,mongodb,sqlite,mysql&perline=15" />
     </br></br>
-    <img src="https://skillicons.dev/icons?i=express,docker,mysql,postman,github,vercel,vite,git,vscode,&perline=15" />
+    <img src="https://skillicons.dev/icons?i=express,docker,postman,github,vercel,git,vscode,&perline=15" />
   </a>
 </p>
 
