@@ -1,43 +1,70 @@
-# Hello 👋, I'm Doğukan
-## 🚀 About Me
 
-A passionate backend developer. He's also working towards becoming a Full Stack Developer and a Full Stack QA Tester.
+Hello 👋, I'm Doğukan
 
-📫 To contact me: sakardogukan@gmail.com
-
-## 🌐 Social Media
-
-<a href="https://www.linkedin.com/in/dogukansakar/" target="blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dogukan" height="20" width="70" /></a>
-
-## 💻 Technologies I use
-
-### Front-End Languages and Tools:
-<div style="margin-left:20px">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="70" height="70"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="70" height="70"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="70" height="70"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="70" height="70"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="70" height="70"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="70" height="70"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="70" height="70"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="70" height="70"/>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="70" height="70"/>
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="left">
+    <summary>About me</summary>
+  </ul>
 </div>
 
-### Back-End Languages and Tools:
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="70" height="70"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="70" height="70"/> </a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="70" height="70"/> </a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="70" height="70"/> </a>
-<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="70" height="70"/> </a>
+<p>Hello, welcome to my GitHub profile! I am an Electrical-Electronics Engineer with a passion for web programming. I am constantly learning and experimenting with new technologies and frameworks to find the best solutions to the problems at hand. </p>
+   
 
-### Other Tools:
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="70" height="70"/> </a>
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="70" height="70"/> </a>
+ <picture> <img src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" align="right"  width = 450px /> </picture> <br>
+  
+- I’m currently working on **becoming a Full-Stack Developer**. I'm also in the IT industry.
+  
+- Technologies I learned and used; **React - JavaScript - HTML5, CSS3 - Third party CSS libraries - NodeJs - ExpressJs - SQL (MongoDB - PostgreSql - Sqlite3) - Docker - TypeScript - NextJs - Cypress - Postman - Jira/Sap/Trello - Git/Github**.
 
-## 📊 GitHub Statistics
-![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=sakardogukan&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true)
+### 📬 Connect with me: 
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dogukansk/)
+[![Gmail: Melvin Aguilar](https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:sakardogukan@gmail.com)](mailto:sakardogukan@gmail.com)
+![](https://komarev.com/ghpvc/?username=sakardogukan&color=blue&style=for-the-badge)
 
-## 🏆 GitHub Badges
-![GitHub Badges](https://github-profile-trophy.vercel.app/?username=sakardogukan&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" >
+<div id="user-content-toc">
+  <ul>
+    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,bootstrap,tailwind,sass,styledcomponents,nodejs,mongodb,sqlite,mysql&perline=15" />
+    </br></br>
+    <img src="https://skillicons.dev/icons?i=express,docker,mysql,postman,github,vercel,vite,git,vscode,&perline=15" />
+  </a>
+</p>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sakardogukan&show_icons=true&locale=en&layout=compact" alt="sakardogukan" /></p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" >
+
+<div id="user-content-toc">
+  <ul>
+    <summary><h2 style="display: inline-block"> More About Me on GitHub👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+
+<details>
+<summary><b>🔥 Streak Stats</b></summary>
+<br>
+
+<a href=""> <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakardogukan&theme=transparent&border_radius=4.4&exclude_days=Sun&card_width=390" alt="dogukan"> </a>
+
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sakardogukan&theme=transparent&border_radius=4.4&exclude_days=Sun&card_width=390)](https://git.io/streak-stats) -->
+</details>
+
+<details>
+<summary><b>🏆 Github Trophies</b></summary>
+<br>
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=sakardogukan&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="MelvinAguilar" />
+</details>
+
+<details>
+<summary><b>⚡ Github Public Stats</b></summary>
+<br>
+<img src="https://github-readme-stats.vercel.app/api?username=sakardogukan&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true" alt="Dogukan" height="165" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sakardogukan&show_icons=true&locale=en&layout=compact" alt="Dogukan" height="165" width="420">
+</details>
+  
+  
+<h4 align="center">Thank you ❤️ for viewing my profile and my repositories!</h4>
